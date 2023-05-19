@@ -128,9 +128,9 @@
                 </ul>
                 <ul class="user-info-menu right-links list-inline list-unstyled">
                     <li class="hidden-sm hidden-xs">
-                        <a href="https://github.com/dongyao8/dycms" target="_blank">
-                            <i class="fa-github"></i> GitHub
-                        </a>
+{{--                        <a href="https://github.com/dongyao8/dycms" target="_blank">--}}
+{{--                            <i class="fa-github"></i> GitHub--}}
+{{--                        </a>--}}
                     </li>
                 </ul>
             </nav>
@@ -163,8 +163,8 @@
             </div>
             <br>
             @endforeach
-            
-            
+
+
             <!-- Main Footer -->
             <!-- Choose between footer styles: "footer-type-1" or "footer-type-2" -->
             <!-- Add class "sticky" to  always stick the footer to the end of page (if page contents is small) -->
@@ -172,11 +172,11 @@
             <footer class="main-footer sticky footer-type-1">
                 <div class="footer-inner">
                     <!-- Add your copyright text here -->
-                    <div class="footer-text">
-                        &copy; DYCMS
-                        <a href="../cn/about.html"><strong>强力驱动</strong></a> 前端design by <a href="https://www.viggoz.com" target="_blank"><strong>Viggo</strong></a>
-                        <!--  - Purchase for only <strong>23$</strong> -->
-                    </div>
+{{--                    <div class="footer-text">--}}
+{{--                        &copy; DYCMS--}}
+{{--                        <a href="../cn/about.html"><strong>强力驱动</strong></a> 前端design by <a href="https://www.viggoz.com" target="_blank"><strong>Viggo</strong></a>--}}
+{{--                        <!--  - Purchase for only <strong>23$</strong> -->--}}
+{{--                    </div>--}}
                     <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
                     <div class="go-up">
                         <a href="#" rel="go-top">
